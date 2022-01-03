@@ -1,9 +1,9 @@
 <template>
-  <Tutorial />
+  <div>asldkjsdfajkl</div>
 </template>
 
 <script>
-export default {
-  name: 'IndexPage',
-}
+export default {}
 </script>
+
+<style></style>
